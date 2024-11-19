@@ -24,7 +24,7 @@ You can set the model parameters as you wish in spiback_minimalversion_run.ipynb
 
 One important parameter is bins_model. This is set by default to 32+1 taking about 2 hours to complete. A value of 16+1 can be used for quick tests. A value of 64+1 will give a much better resolution, equivalent to that used to plot the data, but will significantly increase the computation time.
 
-Currently only a minimal version of the code is available for quick computations. A fuller version will be provided soon. 
+Currently only a minimal version of the code is available for quick computations. A fuller version will be provided soon. Please contact yassin.khalil@unistra.fr for any suggestion or feature request. 
 
 ## Contributing
 
