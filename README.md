@@ -16,17 +16,13 @@ Then, install: pip install torchdiffeq
 
 Scipy and Matplotlib are also needed
 
-## Dependencies
-
-pip install torch agama torchdiffeq scipy matplotlib
-
 # Basic usage
 
 Simply download the files and run them in a single folder on a Jupyter lab or Jupyter notebook interface. Run all the cells of the spiback_minimalversion_run.ipynb Notebook to display the plots properly. This is a Python3 notebook, which needs Python 3.10 or above.
 
 You can set the model parameters as you wish in spiback_minimalversion_run.ipynb 
 
-One important parameter is bins_model. This is set by default to 16+1. Running with 32+1 or 64+1 will give much better resolution but significantly increase the computation time.
+One important parameter is bins_model. This is set by default to 32+1 taking about 2 hours to complete. A value of 16+1 can be used for quick tests. A value of 64+1 will give a much better resolution, equivalent to that used to plot the data, but will significantly increase the computation time.
 
 Currently only a minimal version of the code is available for quick computations. A fuller version will be provided soon. 
 
@@ -36,6 +32,6 @@ Suggestions are welcome.
 
 # Attribution
 
-If you make use of this notebook in your research, please acknowledge Khalil et al.
+If you make use of this notebook in your research, please acknowledge Khalil et al. 
 
 
