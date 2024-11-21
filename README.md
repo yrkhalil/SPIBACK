@@ -1,6 +1,6 @@
 # SPIBACK
 
-The SPIral arms & Bar bACKward integrations (SPIBACK) Jupyter Notebook generates Milky Way models through the backward integration method, and allows users to plot the 2D local velocity space distribution at the Sun's position, as well as median Galactocentric radial velocity maps across the area of the Galactic disk probed with Gaia DR3. This can be done for different bar and spiral arms parameters. The parameters are set by default to be those of the "fiducial model", see Khalil et al for all the details: https://...
+The SPIral arms & Bar bACKward integrations (SPIBACK) Jupyter Notebook generates Milky Way models through the backward integration method, and allows users to plot the 2D local velocity space distribution at the Sun's position, as well as median Galactocentric radial velocity maps across the area of the Galactic disk probed with Gaia DR3. This can be done for different bar and spiral arms parameters. The parameters are set by default to be those of the "fiducial model", see Khalil et al for all the details: https://arxiv.org/abs/2411.12800
 
 ## Installation
 
